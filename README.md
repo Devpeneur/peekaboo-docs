@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Live URL : https://devpeneur.github.io/peekaboo-docs/
 
 ### Installation
 
